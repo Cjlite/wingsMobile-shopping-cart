@@ -1,0 +1,16 @@
+#navbarSupportedContent ul li{
+    padding-right: 70px;
+
+}
+    #home{
+        padding-left: 50px;
+    }
+    .head123{
+        margin-left: 470px;
+    }
+    #login{
+        margin-left: 525px !important;
+        margin-right: 0px !important;
+        padding-right: 0px !important;
+    }
+    

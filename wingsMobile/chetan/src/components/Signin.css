@@ -1,0 +1,32 @@
+.c1{
+    height: 50px;
+    /* border: solid; */
+    text-align: center;
+    font-size: 30px;
+}
+.c2{
+    margin-top: 100px;
+    margin-bottom: 45px;
+    /* margin: 20px; */
+    border:solid 1px;
+}
+.c4{
+    text-align: center;
+    font-size: 25px;
+    /* margin-left: 200px; */
+}
+.c3{
+    padding: 10px;
+    border: solid;
+    font-size: 20px;
+}
+.c5{
+    color: aliceblue;
+    background-color: rgb(10, 10, 66);
+}
+.c7{
+    text-align: center;
+}
+.c8{
+    height: 50px;
+}

@@ -1,0 +1,16 @@
+.card-img-top{
+    width: 300px;
+    height: 500px;
+}
+#space{
+    margin-left: 130px;
+    margin-top: 80px;
+    border-radius: 20px;
+
+    /* box-shadow: 10px 10px 20px red,20px 20px 20px rgb(165, 197, 118); */
+
+} 
+.productbody{
+    background-image: url(/public/assets/home/six.jpg);
+    background-size: 100% 100%;
+}

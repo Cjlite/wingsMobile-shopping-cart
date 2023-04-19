@@ -1,0 +1,10 @@
+#productdetailimage{
+    border-radius: 30px;
+    margin-left: 100px;
+}
+
+.productDtailBody{
+    background-color: rgb(226, 245, 138);
+    margin-top: 110px;
+    margin-bottom: 55px;
+}

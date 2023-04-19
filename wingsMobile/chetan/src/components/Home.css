@@ -1,0 +1,15 @@
+.d-block{
+    height: 550px;
+}
+#homehead{
+    text-align: center;
+    text-decoration: underline;
+    color: cadetblue;
+}
+/* .homebody{
+    background-color: rgb(180, 203, 190);
+} */
+
+#carouselExampleIndicators{
+    margin-top: 62px;
+}

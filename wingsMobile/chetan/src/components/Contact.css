@@ -1,0 +1,17 @@
+#contactimg{
+    /* opacity: 0.6; */
+
+    width: 1300px;
+    height: 500px;
+}
+#contacthead{
+    color: darkred;
+    margin-top: -100px;
+}
+.c{
+    text-align: center;
+    margin-top: 50px;
+}
+.contactbody{
+    background-color: rgb(206, 169, 231);
+}
